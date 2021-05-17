@@ -1,0 +1,5 @@
+Choice:
+
+a) Go through every sudoku square line by line on the sudoku
+	- 
+b) Go box by box
